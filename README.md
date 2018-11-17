@@ -1,2 +1,3 @@
 # image classifier project
-AI with python project
+# Nanodegree by Udacity
+# AI with python project 
